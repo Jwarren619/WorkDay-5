@@ -14,4 +14,4 @@ I would like to thank my instructors for guidling me to figuring out some of the
 <br>
 
 
-README is maintained by [Jeremiah](https://github.com/Jwarren619) and hosted on [GitHub](https://github.com/Jwarren619/WorkDay-5).
+README is maintained by [Jeremiah](https://github.com/Jwarren619) , followed by the [WorkDay-5](https://jwarren619.github.io/WorkDay-5/) and hosted on [GitHub](https://github.com/Jwarren619/WorkDay-5).
